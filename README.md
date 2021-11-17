@@ -14,7 +14,7 @@
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-[<img align="left" alt="stevealejandrosanchez.com" width="22px" src="raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/blob/main/internet.png" />][website]
+[<img align="left" alt="stevealejandrosanchez.com" width="22px" src="raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/blob/d68562cdc8815537992537b0056b2c3d2d759afb/internet.png" />][website]
 
 
 https://github.com/SteveSanchez22/SteveSanchez22/blob/d68562cdc8815537992537b0056b2c3d2d759afb/internet.png
