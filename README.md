@@ -12,17 +12,26 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!-- Personal Website -->
 
-[<img align="left" alt="stevealejandrosanchez.com" width="22px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/internet.png" />][website]
+[<img align="left" alt="stevealejandrosanchez.com" width="30px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/internet.png" />][Website]
+
+<!-- Linkedin -->
+[<img align="left" alt="Steve Sanchez Linkedin" width="30px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/linkedin.png" />][Linkedin]
+
+<!-- Instagram -->
+[<img align="left" alt="Steve Sanchez Linkedin" width="30px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/instagram.png" />][Instagram]
+
+<!-- Mail -->
+[<img align="left" alt="Steve Sanchez Linkedin" width="30px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/mail.png" />][Mail]
 
 
 
 
-https://github.com/SteveSanchez22/SteveSanchez22/blob/d68562cdc8815537992537b0056b2c3d2d759afb/internet.png
+[Website]: https://stevealejandrosanchez.com
 
+[Linkedin]: https://www.linkedin.com/in/steve-alejandro-sanchez/
 
+[Instagram]: https://www.instagram.com/alejo_sancho/
 
-
-
-[website]: https://stevealejandrosanchez.com
+[Mail]: mailto:me@stevealejandrosanchez.com
