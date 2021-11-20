@@ -32,7 +32,7 @@
 
 <!-- html -->
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/html-5.png" />](#)
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/html-5.png" />](#languages-and-tools)
 
 <!-- css -->
 
