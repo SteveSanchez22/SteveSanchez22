@@ -60,7 +60,10 @@
 
 <br>
 
-[![Stevie's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteveSanchez22&count_private=true&hide=prs)](https://github.com/SteveSanchez22)
+ <img align="center" alt="Stevie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SteveSanchez22&count_private=true&hide=prs">
+
+
+<!-- [![Stevie's GitHub stats]()]() -->
 
 <br>
 
