@@ -32,11 +32,11 @@
 
 <!-- html -->
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/html-5.png" />
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/html-5.png" />](#)
 
 <!-- css -->
 
-<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/css-3.png" />
+[<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/css-3.png" />](#)
 
 <!-- js -->
 <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/js.png" />
@@ -52,6 +52,33 @@
 
 <!-- Terminal -->
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/terminal-icon.png" />
+
+<br>
+<br>
+
+---
+
+<br>
+
+[![Stevie's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteveSanchez22&count_private=true&hide=prs)](https://github.com/SteveSanchez22)
+
+<br>
+
+--- 
+
+<details>
+ <summary><b>&nbsp;&nbsp;About&nbsp;Me</b></summary>
+</details>
+
+<!-- # Blog posts
+TODO: Potential Section for future Website
+
+Read Docs => https://github.com/gautamkrishnar/blog-post-workflow
+
+BLOG-POST-LIST:START
+BLOG-POST-LIST:END 
+
+-->
 
 
 [Website]: https://stevealejandrosanchez.com
