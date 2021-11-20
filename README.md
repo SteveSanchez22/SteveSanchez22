@@ -57,9 +57,9 @@
 <br>
 
 ---
-
 <br>
-&nbsp;**This week I spent my time on**
+
+&nbsp;**This week I spent my time on :**
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SteveSanchez22)](#this-week-i-spent-my-time-on)
 
