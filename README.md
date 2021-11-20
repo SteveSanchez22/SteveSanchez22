@@ -20,7 +20,7 @@
 [<img align="left" alt="Steve Sanchez Linkedin" width="30px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/linkedin.png" />][Linkedin]
 
 <!-- Instagram -->
-[<img align="left" alt="Steve Sanchez Linkedin" width="30px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/instagram.png" />][Instagram]
+[<img align="left" alt="Steve Sanchez Linkedin" width="30px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/instagram.png" target="_blank />][Instagram]
 
 <!-- Mail -->
 [<img align="left" alt="Steve Sanchez Linkedin" width="30px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/mail.png" />][Mail]
