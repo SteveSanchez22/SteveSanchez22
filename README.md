@@ -1,4 +1,5 @@
-### Hi there, I'm [Steve Alejandro Sanchez][website] 👋
+### Welcome, I'm [Steve Alejandro Sanchez][website] 👋
+<!-- Add giphy emojji  -->
 
 <br>
 
@@ -52,15 +53,21 @@
 <!-- Terminal -->
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/terminal-icon.png" />](#)
 
+<!-- TODO: php -->
+<!-- TODO: NodeJS -->
+
 <br>
 <br>
 
 ---
+
 <br>
 
 &nbsp;**This week I spent my time on :**
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SteveSanchez22)](#this-week-i-spent-my-time-on)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SteveSanchez22)
+
+<br>
 
 ---
 
@@ -77,6 +84,7 @@
 
 <details>
  <summary><b>&nbsp;&nbsp;About&nbsp;Me</b></summary>
+ <!-- TODO: Add about me here  -->
 </details>
 
 <!-- # Blog posts
