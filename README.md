@@ -59,6 +59,13 @@
 ---
 
 <br>
+&nbsp;**This week I spent my time on**
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SteveSanchez22)](#this-week-i-spent-my-time-on)
+
+---
+
+<br>
 
  <img align="center" alt="Stevie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SteveSanchez22&count_private=true&hide=prs">
 
