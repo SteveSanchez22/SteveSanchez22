@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Web Dev and Data analysis
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on ...
-- ⚡ Fun fact: If food is involved, i'm in! And I love cycling
+- ⚡ Fun fact: If food is involved, i'm in! And I love cycling 
 
 
 ### Connect with me:
@@ -20,10 +20,14 @@
 [<img align="left" alt="Steve Sanchez Linkedin" width="30px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/linkedin.png" />][Linkedin]
 
 <!-- Instagram -->
-[<img align="left" alt="Steve Sanchez Linkedin" width="30px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/instagram.png" target="_blank />][Instagram]
+[<img align="left" alt="Steve Sanchez Instagram" width="30px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/instagram.png" />][Instagram]
 
 <!-- Mail -->
-[<img align="left" alt="Steve Sanchez Linkedin" width="30px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/mail.png" />][Mail]
+[<img align="left" alt="Steve Sanchez Email" width="30px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/mail.png" />][Mail]
+
+<br>
+
+### Languages and Tools:
 
 
 
