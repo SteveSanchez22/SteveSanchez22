@@ -82,7 +82,7 @@ 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
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-rouge-three.vercel.app/api?username=SteveSanchez22&show_icons=true&hide_border=true" />
 
-<!-- [![Stevie's GitHub stats]()]() -->
+
 
 <br>
 
