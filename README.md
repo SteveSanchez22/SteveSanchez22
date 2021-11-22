@@ -18,10 +18,10 @@
 [<img align="left" alt="stevealejandrosanchez.com" width="30px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/internet.png" />][Website]
 
 <!-- Linkedin -->
-[<img align="left" height="32" width="32" alt="Steve Sanchez Linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
+[<img align="left" height="32" width="32" alt="Steve Sanchez Linkedin" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/linkedin.png" />][linkedin]
 
 <!-- Instagram -->
-[<img height="32" width="32" alt="Steve Sanchez Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />][instagram]
+[<img height="32" width="32" alt="Steve Sanchez Instagram" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/instagram.png" />][instagram]
 
 <!-- Mail -->
 [<img align="left" alt="Steve Sanchez Email" width="30px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/mail.png" />][Mail]
