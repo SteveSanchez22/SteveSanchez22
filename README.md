@@ -1,4 +1,4 @@
-### Welcome, I'm [Steve Alejandro Sanchez][website] 👋
+# Welcome, I'm [Steve Alejandro Sanchez][website] 👋
 <!-- Add giphy emojji  -->
 
 <br>
@@ -18,10 +18,10 @@
 [<img align="left" alt="stevealejandrosanchez.com" width="30px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/internet.png" />][Website]
 
 <!-- Linkedin -->
-[<img align="left" alt="Steve Sanchez Linkedin" width="30px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/linkedin.png" />][Linkedin]
+[<img align="left" height="32" width="32" alt="Steve Sanchez Linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
 
 <!-- Instagram -->
-[<img align="left" alt="Steve Sanchez Instagram" width="30px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/instagram.png" />][Instagram]
+[<img height="32" width="32" alt="Steve Sanchez Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />][instagram]
 
 <!-- Mail -->
 [<img align="left" alt="Steve Sanchez Email" width="30px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/mail.png" />][Mail]
@@ -39,7 +39,7 @@
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/css-3.png" />](#)
 
 <!-- js -->
-[<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/js.png" />](#)
+[<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](#)
 
 <!-- VScode -->
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/d2ab65ebad98e67bcff75d17e5b65d80a44281cc/Resources/VScode.svg" />](#)
@@ -54,6 +54,9 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/terminal-icon.png" />](#)
 
 <!-- TODO: php -->
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />](#)
+
+
 <!-- TODO: NodeJS -->
 
 <br>
