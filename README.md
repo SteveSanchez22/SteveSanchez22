@@ -1,7 +1,5 @@
-### Welcome, I'm [Steve Alejandro Sanchez][website] 👋
+# Welcome, I'm [Steve Alejandro Sanchez][website] 👋
 <!-- Add giphy emojji  -->
-
-<br>
 
 ## I'm a junior developer
 
@@ -26,7 +24,11 @@
 <!-- Mail -->
 [<img align="left" alt="Steve Sanchez Email" width="30px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/mail.png" />][Mail]
 
+<!-- Disord -->
+
 <br>
+
+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
 
 ### Languages and Tools:
 
@@ -65,7 +67,8 @@
 
 &nbsp;**This week I spent my time on :**
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SteveSanchez22)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SteveSanchez22)](https://github.com/SteveSanchez22/github-readme-stats)
+
 
 <br>
 
@@ -75,6 +78,9 @@
 
  <img align="center" alt="Stevie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SteveSanchez22&count_private=true&hide=prs">
 
+ <br>
+
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-rouge-three.vercel.app/api?username=SteveSanchez22&show_icons=true&hide_border=true" />
 
 <!-- [![Stevie's GitHub stats]()]() -->
 
