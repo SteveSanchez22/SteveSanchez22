@@ -70,6 +70,9 @@
 
 
 <!--START_SECTION:waka-->
+```text
+Markdown   3 hrs 27 mins   █████████████████████████   100.00 % 
+```
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SteveSanchez22)](https://github.com/SteveSanchez22/github-readme-stats) -->
