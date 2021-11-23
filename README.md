@@ -28,7 +28,6 @@
 
 <br>
 
-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
 
 ### Languages and Tools:
 
@@ -69,6 +68,20 @@ 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
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SteveSanchez22)](https://github.com/SteveSanchez22/github-readme-stats)
 
+
+<br>
+
+---
+
+<br>
+
+<!-- GitHub Activity Section -->
+
+<!--START_SECTION:activity-->
+
+
+
+<!--END_SECTION:activity-->
 
 <br>
 
