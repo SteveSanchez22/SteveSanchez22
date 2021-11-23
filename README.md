@@ -70,7 +70,6 @@
 
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 
@@ -88,9 +87,6 @@
 <!-- GitHub Activity Section -->
 
 <!--START_SECTION:activity-->
-
-
-
 <!--END_SECTION:activity-->
 
 <br>
