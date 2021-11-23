@@ -1,5 +1,4 @@
-# Welcome, I'm [Steve Alejandro Sanchez][website] 👋
-<!-- Add giphy emojji  -->
+# Welcome, I'm [Steve Alejandro Sanchez][website] <img src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/waving_hand.gif" width="32px">
 
 ## I'm a junior developer
 
@@ -7,6 +6,7 @@
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on ...
 - ⚡ Fun fact: If food is involved, i'm in! And I love cycling 
+<!-- Fun section change to emoji  -->
 
 
 ### Connect with me:
@@ -95,9 +95,6 @@ Markdown   3 hrs 27 mins   █████████████████�
  <img align="center" alt="Stevie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SteveSanchez22&count_private=true&hide=prs">
 
  <br>
-
-
-<!-- [![Stevie's GitHub stats]()]() -->
 
 <br>
 
