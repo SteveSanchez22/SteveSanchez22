@@ -75,6 +75,8 @@
 
 <br>
 
+## Recent Github Activity Feed :
+
 <!-- GitHub Activity Section -->
 
 <!--START_SECTION:activity-->
