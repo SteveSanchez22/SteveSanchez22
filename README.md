@@ -66,15 +66,13 @@
 
 <!-- Weka stats -->
 
-&nbsp;**This week I spent my time on :**
+&nbsp;**Weekly development breakdown :**
 
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SteveSanchez22)](https://github.com/SteveSanchez22/github-readme-stats)
-
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SteveSanchez22)](https://github.com/SteveSanchez22/github-readme-stats) -->
 
 <br>
 
@@ -83,8 +81,6 @@
 <br>
 
 ## Recent Github Activity Feed :
-
-<!-- GitHub Activity Section -->
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -99,7 +95,6 @@
 
  <br>
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-rouge-three.vercel.app/api?username=SteveSanchez22&show_icons=true&hide_border=true" />
 
 <!-- [![Stevie's GitHub stats]()]() -->
 
