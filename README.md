@@ -64,7 +64,15 @@
 
 <br>
 
+<!-- Weka stats -->
+
 &nbsp;**This week I spent my time on :**
+
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SteveSanchez22)](https://github.com/SteveSanchez22/github-readme-stats)
 
