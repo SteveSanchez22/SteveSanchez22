@@ -71,8 +71,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   16 mins         █████████████░░░░░░░░░░░░   51.55 % 
-CSV        15 mins         ████████████░░░░░░░░░░░░░   48.45 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
