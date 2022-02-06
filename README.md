@@ -1,13 +1,15 @@
-# Welcome, I'm [Steve Alejandro Sanchez][website] 👋
+## Welcome, I'm [Steve Alejandro Sanchez][website] 👋
 <!-- Add giphy emojji  -->
 
-## I'm a junior developer
+I'm an junior developer based in London. Currently in the process in securing a developer role! 
+
+<br>
 
 - 🔭 I’m currently working on Web Dev and Data analysis
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate on ...
-- ⚡ Fun fact: If food is involved, i'm in! And I love cycling 
+- 🌱 I’m currently learning everything and refining my skills
+- ⚡ Emoji's that describe me : 🚴🏽 🎧 🏸 🎾 💻 🧘🏽‍♂️ 🏎 ✈️ 🪴 🐶 🐈 📚
 
+<br>
 
 ### Connect with me:
 
@@ -27,8 +29,6 @@
 <!-- Disord -->
 
 <br>
-
-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
 
 ### Languages and Tools:
 
@@ -56,6 +56,9 @@ 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
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/terminal-icon.png" />](#)
 
 <!-- TODO: php -->
+
+
+
 <!-- TODO: NodeJS -->
 
 <br>
@@ -65,43 +68,24 @@ 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
 
 <br>
 
-&nbsp;**This week I spent my time on :**
+&nbsp;**Coding Stats:**
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SteveSanchez22)](https://github.com/SteveSanchez22/github-readme-stats)
 
 
 <br>
 
----
 
-<br>
+&nbsp;**Github Stats:**
+
 
  <img align="center" alt="Stevie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SteveSanchez22&count_private=true&hide=prs">
 
  <br>
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-rouge-three.vercel.app/api?username=SteveSanchez22&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-rouge-three.vercel.app/api?username=SteveSanchez22&show_icons=true&hide_border=true" /> -->
 
 
-
-<br>
-
---- 
-
-<details>
- <summary><b>&nbsp;&nbsp;About&nbsp;Me</b></summary>
- <!-- TODO: Add about me here  -->
-</details>
-
-<!-- # Blog posts
-TODO: Potential Section for future Website
-
-Read Docs => https://github.com/gautamkrishnar/blog-post-workflow
-
-BLOG-POST-LIST:START
-BLOG-POST-LIST:END 
-
--->
 
 
 [Website]: https://stevealejandrosanchez.com
