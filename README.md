@@ -1,13 +1,15 @@
-# Welcome, I'm [Steve Alejandro Sanchez][website] <img src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/waving_hand.gif" width="32px">
+## Welcome, I'm [Steve Alejandro Sanchez][website] 👋
+<!-- Add giphy emojji  -->
 
-## I'm a junior developer
+I'm an junior developer based in London. Currently in the process in securing a developer role! 
+
+<br>
 
 - 🔭 I’m currently working on Web Dev and Data analysis
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate on ...
-- ⚡ Fun fact: If food is involved, i'm in! And I love cycling 
-<!-- Fun section change to emoji  -->
+- 🌱 I’m currently learning everything and refining my skills
+- ⚡ Emoji's that describe me : 🚴🏽 🎧 🏸 🎾 💻 🧘🏽‍♂️ 🏎 ✈️ 🪴 🐶 🐈 📚
 
+<br>
 
 ### Connect with me:
 
@@ -27,7 +29,6 @@
 <!-- Disord -->
 
 <br>
-
 
 ### Languages and Tools:
 
@@ -55,6 +56,9 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/terminal-icon.png" />](#)
 
 <!-- TODO: php -->
+
+
+
 <!-- TODO: NodeJS -->
 
 <br>
@@ -65,6 +69,7 @@
 <br>
 
 <!-- Weka stats -->
+&nbsp;**Coding Stats:**
 
 &nbsp;**Weekly development breakdown :**
 
@@ -78,9 +83,9 @@ YAML       15 mins         █▒░░░░░░░░░░░░░░░�
 
 <br>
 
----
 
-<br>
+&nbsp;**Github Stats:**
+
 
 ## Recent Github Activity Feed :
 
@@ -110,11 +115,9 @@ YAML       15 mins         █▒░░░░░░░░░░░░░░░�
 TODO: Potential Section for future Website
 
 Read Docs => https://github.com/gautamkrishnar/blog-post-workflow
+<!-- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-rouge-three.vercel.app/api?username=SteveSanchez22&show_icons=true&hide_border=true" /> -->
 
-BLOG-POST-LIST:START
-BLOG-POST-LIST:END 
 
--->
 
 
 [Website]: https://stevealejandrosanchez.com
