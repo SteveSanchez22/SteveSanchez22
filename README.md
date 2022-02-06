@@ -1,4 +1,4 @@
-## Welcome, I'm [Steve Alejandro Sanchez][website] 👋
+## Welcome, I'm [Steve Alejandro Sanchez][website] 
 <!-- Add giphy emojji  -->
 
 I'm an junior developer based in London. Currently in the process in securing a developer role! 
@@ -56,10 +56,15 @@ I'm an junior developer based in London. Currently in the process in securing a 
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/terminal-icon.png" />](#)
 
 <!-- TODO: php -->
-
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/php.png" />](#)
 
 
 <!-- TODO: NodeJS -->
+
+
+<!-- Bulma -->
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/SteveSanchez22/SteveSanchez22/main/Resources/bulma-logo.png" />](#)
+
 
 <br>
 <br>
@@ -71,8 +76,7 @@ I'm an junior developer based in London. Currently in the process in securing a 
 <!-- Weka stats -->
 &nbsp;**Coding Stats:**
 
-&nbsp;**Weekly development breakdown :**
-
+<br>
 
 <!--START_SECTION:waka-->
 ```text
@@ -87,36 +91,12 @@ HTML         27 mins         ██░░░░░░░░░░░░░░░
 
 &nbsp;**Github Stats:**
 
-
-## Recent Github Activity Feed :
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<br>
-
----
-
 <br>
 
  <img align="center" alt="Stevie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SteveSanchez22&count_private=true&hide=prs">
 
- <br>
 
-<br>
 
---- 
-
-<details>
- <summary><b>&nbsp;&nbsp;About&nbsp;Me</b></summary>
- <!-- TODO: Add about me here  -->
-</details>
-
-<!-- # Blog posts
-TODO: Potential Section for future Website
-
-Read Docs => https://github.com/gautamkrishnar/blog-post-workflow
-<!-- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-rouge-three.vercel.app/api?username=SteveSanchez22&show_icons=true&hide_border=true" /> -->
 
 
 
