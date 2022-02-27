@@ -79,10 +79,12 @@ I'm an junior developer based in London. Currently in the process in securing a 
 <br>
 
 <!--START_SECTION:waka-->
+
 ```text
-Python     1 hr 38 mins    ███████████████████▓░░░░░   79.29 % 
-Markdown   25 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.71 % 
+Python     1 hr 38 mins    ███████████████████▓░░░░░   79.29 %
+Markdown   25 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.71 %
 ```
+
 <!--END_SECTION:waka-->
 
 <br>
