@@ -81,7 +81,7 @@ I'm an junior developer based in London. Currently in the process in securing a 
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Markdown   49 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
