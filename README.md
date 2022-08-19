@@ -81,8 +81,8 @@ I'm an junior developer based in London. Currently in the process in securing a 
 <!--START_SECTION:waka-->
 
 ```text
-Python     3 hrs 8 mins    ██████████████████░░░░░░░   72.29 %
-Markdown   1 hr 12 mins    ███████░░░░░░░░░░░░░░░░░░   27.66 %
+Python     3 hrs 8 mins    ███████████████████▒░░░░░   77.62 %
+Markdown   54 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.32 %
 CSV        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
