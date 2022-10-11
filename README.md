@@ -81,7 +81,8 @@ I'm an junior developer based in London. Currently in the process in securing a 
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python     43 mins         ████████████████████████░   95.70 %
+Markdown   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
 ```
 
 <!--END_SECTION:waka-->
